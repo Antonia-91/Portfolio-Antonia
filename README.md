@@ -1,6 +1,6 @@
 # About me
 
-###LINK TO LIVE DEMO: http://antoniaportfolio.com/ <br>
+### LINK TO LIVE DEMO: http://antoniaportfolio.com/ <br>
 
 <p>
     I am a Junior developer and long for someone who dares to invest in
@@ -13,7 +13,7 @@
             projects.
 <p>
 
- <img src="./assets/CV.png" width="350" title="hover text">
+ <img src="./src/assets/CV.png" width="350" title="hover text">
 
 ## Table of contents
 
